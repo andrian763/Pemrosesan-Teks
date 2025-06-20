@@ -107,15 +107,6 @@ Proyek ini bertujuan untuk **mengklasifikasikan komentar promosi judi online sec
 
 ---
 
-## 🧑‍💻 Kontributor
-
-**Andrian Simanjuntak**  
-Mahasiswa Sains Data  
-Universitas [Isi Nama Kampus Anda]  
-Mata Kuliah: **Pemrosesan Teks / Kecerdasan Artifisial**
-
----
-
 ## 📚 Referensi
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
